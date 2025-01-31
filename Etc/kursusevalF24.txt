@@ -1,0 +1,193 @@
+F24 Evalueringsrapport for SWMAL-01 Machine Learning
+(SWMAL-01 Machine Learning (F24.28521PU042.A))
+Diplomingeniøruddannelsen i softwareteknologi
+
+Teacher Carsten Eie Frigaard
+Henrik Daniel Kjeldsen
+
+
+Svarprocent
+                                                       Studerende
+
+ Besvaret                                                     15
+
+ Inviteret                                                    60
+
+ Svarprocent                                                 25%
+
+                                                            Side 1/8
+Oversigt - standardspørgsmål
+
+Kursusspørgsmål
+Gennemsnit (likert scala 1-5)
+                                                                                                               Gennemsnit
+
+  Jeg vurderer det samlede udbytte af undervisningsforløbet som                                                      4,27
+
+  Jeg oplever, at kurset har relevans for mit studium som helhed                                                     4,60
+
+  Kurset er hensigtsmæssigt tilrettelagt                                                                             4,20
+
+  Kursets undervisning, forberedelse (hjemmearbejde), opgaver mm har til sammen bidraget til, at jeg har
+                                                                                                                     4,33
+  nået læringsmålene
+
+  Forberedelse, opgaver, mm. var af passende omfang og niveau                                                        3,60
+
+  Kurset havde det faglige niveau, som jeg forventede                                                                4,40
+
+
+
+Kursusspørgsmål - 3 er bedst
+                                                               1              2               3            4            5
+
+  Arbejdsbyrden på kurset vurderes som                    6,67%        40,00%           53,33%         0,00%       0,00%
+
+
+
+
+Fordelingen af svarerne for hvert spørgmål, samt kommentarer
+
+ Jeg vurderer det samlede udbytte af undervisningsforløbet som
+
+
+  5 Meget stort udbytte    6   40,00%
+
+  4 Stort udbytte          7   46,67%
+
+  3 Noget udbytte          2   13,33%
+
+  2 Lille udbytte          0   0,00%
+
+  1 Intet udbytte          0   0,00%
+
+  Samlet                  15            0%                       50%     100%
+
+
+  Statistik                                                            Værdi
+
+  Gennemsnit                                                            4,27
+
+
+
+Jeg oplever, at kurset har relevans for mit studium som helhed
+
+
+ 5 Enig                 10    66,67%
+
+ 4 Overvejende enig      4    26,67%
+
+ 3 Hverken/eller         1     6,67%
+
+ 2 Overvejende uenig     0     0,00%
+
+ 1 Uenig                 0     0,00%
+
+ N/A Ikke relevant       0     0,00%
+
+ Samlet                 15             0%                        50%     100%
+
+
+ Statistik                                                             Værdi
+
+ Gennemsnit                                                             4,60
+
+
+
+Kurset er hensigtsmæssigt tilrettelagt
+
+
+ 5 Enig                            5     33,33%
+
+ 4 Overvejende enig                8     53,33%
+
+ 3 Hverken/eller                   2     13,33%
+
+ 2 Overvejende uenig               0       0,00%
+
+ 1 Uenig                           0       0,00%
+
+ N/A Ikke relevant                 0       0,00%
+
+ Samlet                          15                 0%                                  50%                                    100%
+
+
+ Statistik                                                                                                                   Værdi
+
+ Gennemsnit                                                                                                                   4,20
+
+
+
+Kursets undervisning, forberedelse (hjemmearbejde), opgaver mm har til sammen bidraget til, at jeg har nået læringsmålene
+
+
+ 5 Enig                            8     53,33%
+
+ 4 Overvejende enig                5     33,33%
+
+ 3 Hverken/eller                   1      6,67%
+
+ 2 Overvejende uenig               1      6,67%
+
+ 1 Uenig                           0      0,00%
+
+ N/A Ikke relevant                 0      0,00%
+
+ Samlet                          15                0%                                  50%                                      100%
+
+
+ Statistik                                                                                                                    Værdi
+
+ Gennemsnit                                                                                                                    4,33
+
+
+
+Forberedelse, opgaver, mm. var af passende omfang og niveau
+
+
+ 5 Enig                           5     33,33%
+
+ 4 Overvejende enig               5     33,33%
+
+ 3 Hverken/eller                  1       6,67%
+
+ 2 Overvejende uenig              2     13,33%
+
+ 1 Uenig                          2     13,33%
+
+ N/A Ikke relevant                0       0,00%
+
+ Samlet                         15                0%                                  50%                                 100%
+
+
+ Statistik                                                                                                               Værdi
+
+ Gennemsnit                                                                                                              3,60
+
+
+
+                                                                                                                 
+Kurset havde det faglige niveau, som jeg forventede
+
+
+ 5 Enig                 8    53,33%
+
+ 4 Overvejende enig     6    40,00%
+
+ 3 Hverken/eller        0     0,00%
+
+ 2 Overvejende uenig    1     6,67%
+
+ 1 Uenig                0     0,00%
+
+ N/A Ikke relevant      0     0,00%
+
+ Samlet                15             0%              50%     100%
+
+
+
+ Statistik                                                  Værdi
+
+ Gennemsnit                                                  4,40
+
+

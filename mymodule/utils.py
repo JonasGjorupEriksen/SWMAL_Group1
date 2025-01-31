@@ -2,4 +2,4 @@
 """
 
 def dummy_function():
-    print("this is from utils.py dummy func")
+    print("this is from utils.py dummy func, now updated")

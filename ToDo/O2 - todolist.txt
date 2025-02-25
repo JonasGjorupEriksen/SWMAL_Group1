@@ -4,11 +4,11 @@ This is the ToDo list for assignment O2
 Here we write what we have done and what has to be completed:
 
 L03:
-Supergruppe_diskussion: mangler 1 emne
+Supergruppe_diskussion: mangler 1 emne(data transformationer)
 
 L04:
 Data analyse: (might be done) maybe have to change 
-              We are missing some plots
+              We are missing some plots from the dataset
 
 Pipelines: almost done Jonas is working on it
 

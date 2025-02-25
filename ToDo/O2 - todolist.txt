@@ -1,0 +1,25 @@
+
+This is the ToDo list for assignment O2
+
+Here we write what we have done and what has to be completed:
+
+L03:
+Supergruppe_diskussion: mangler 1 emne
+
+L04:
+Data analyse: (might be done) maybe have to change 
+              We are missing some plots
+
+Pipelines: almost done Jonas is working on it
+
+L05: 
+Train_linear_regression: missing
+
+L06: 
+ann: missing
+
+
+
+
+
+

@@ -19,7 +19,24 @@ L06:
 ann: missing
 
 
+Pre-feedback fra L06:
+Supergruppe:
+    tekst
 
+Dataanalyse
+    alt kan bruges i O4
 
+Pipelines:
+    
 
+train Train_linear_regression:
+    kig i bogen, husk ref.
+    stepsize, hold konstant.
+    GD/SGD modes
+    smoketest er "shaky" kan give falsk positiv
+    husk bias i X 
+    learning curves
 
+ann
+    scikit learning
+    giver forskellige resultater pga. få iterationer

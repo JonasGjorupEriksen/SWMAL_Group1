@@ -4,19 +4,19 @@ This is the ToDo list for assignment O2
 Here we write what we have done and what has to be completed:
 
 L03:
-Supergruppe_diskussion: mangler 1 emne(data transformationer)
+Supergruppe_diskussion: done
 
 L04:
 Data analyse: (might be done) maybe have to change 
               We are missing some plots from the dataset
 
-Pipelines: almost done Jonas is working on it
+Pipelines: done på nær lidt forklarende tekst i sidste opgave i raporten
 
 L05: 
 Train_linear_regression: missing
 
 L06: 
-ann: missing
+ann: Opg a og b er lavet 
 
 
 Pre-feedback fra L06:

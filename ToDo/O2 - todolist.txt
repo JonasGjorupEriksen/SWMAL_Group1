@@ -16,7 +16,7 @@ L05:
 Train_linear_regression: missing
 
 L06: 
-ann: missing
+ann: Opg a og b er lavet 
 
 
 Pre-feedback fra L06:

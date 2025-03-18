@@ -6,3 +6,6 @@ produce a learningcurve ilustating the drop in cost or increase in score-functio
 document final CNN setup
 discuss iterations, what has ADAM done?
 write conclusion
+
+Learning curves:
+

@@ -1,11 +1,16 @@
 CNN:
-
-document your experiments toward the end goal
-how did we use generalization?
-produce a learningcurve ilustating the drop in cost or increase in score-function
-document final CNN setup
-discuss iterations, what has ADAM done?
-write conclusion
+færdig
 
 Learning curves:
+mangler sidste opgave og at blive skrevet ind i rapporten
+
+Gridsearch:
+Dette kigger jonas på
+
+Regulizers:
+
+
+NanoGPT:
+
+
 

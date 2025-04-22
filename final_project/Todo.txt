@@ -1,0 +1,15 @@
+Problemformulering:
+Dette har vi måske kigget på før men det skal lige følges op på.
+
+
+Reaseach data
+hvordan hænger data sættet sammen
+Er der NAN data i sættet og hvordan skal det "ryddes op"
+Visualisering af datasettet
+
+Finde inspiration af andre løsninger
+
+
+Machine learning del: 
+Hvilken model skal bruges
+Gridsearch for parametre og modeller for at finde den bedst mulige
